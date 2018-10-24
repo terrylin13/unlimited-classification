@@ -1,7 +1,5 @@
 <?php
-namespace app;
-
-use app\ConnectDB;
+require_once ''
 
 /**
  * 无限级分类
