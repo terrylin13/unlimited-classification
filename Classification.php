@@ -1,6 +1,4 @@
 <?php
-require_once ''
-
 /**
  * 无限级分类
  */
